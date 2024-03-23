@@ -1,2 +1,1 @@
-# gregfowler.com
-The personal website of Greg Fowler
+# gregfowler.co.uk
