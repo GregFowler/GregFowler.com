@@ -1,2 +1,2 @@
-# gregfowler.co.uk
+GregFowler.com
 My personal website
