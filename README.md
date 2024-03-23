@@ -1,2 +1,2 @@
-# GregFowler.com
+# gregfowler.com
 My personal website
